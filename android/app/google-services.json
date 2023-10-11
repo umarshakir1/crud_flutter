@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060488208962",
+    "project_id": "fir-workshop-6e921",
+    "storage_bucket": "fir-workshop-6e921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060488208962:android:143403fc2fbba5b89343db",
+        "android_client_info": {
+          "package_name": "com.example.jot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfteEzdk0KBSgGJXEHMS-Pk6vY1CK2psk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
